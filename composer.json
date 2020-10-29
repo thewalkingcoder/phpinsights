@@ -1,21 +1,15 @@
 {
-    "name": "nunomaduro/phpinsights",
-    "description": "Instant PHP quality checks from your console.",
+    "name": "twc/phpinsights",
+    "description": "[experimental] use phpinsight with php7.2 and composer v2.",
     "keywords": ["php", "insights", "console", "quality", "source", "code"],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
-        }
-    ],
+    "license": "MIT",    
     "require": {
         "php": "^7.2",
         "ext-iconv": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-tokenizer": "*",
-        "composer/composer": "^1.7",
+        "composer/composer": "^1.7 || ^2.0",
         "friendsofphp/php-cs-fixer": "^2.15",
         "justinrainbow/json-schema": "^5.1",
         "league/container": "^3.2",

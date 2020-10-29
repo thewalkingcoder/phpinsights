@@ -1,6 +1,6 @@
 {
-    "name": "nunomaduro/phpinsights",
-    "description": "Instant PHP quality checks from your console.",
+    "name": "twc/phpinsights",
+    "description": "[experimental] use phpinsight with php7.2 and composer v2",
     "keywords": ["php", "insights", "console", "quality", "source", "code"],
     "license": "MIT",
     "authors": [

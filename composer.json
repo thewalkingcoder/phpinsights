@@ -14,7 +14,7 @@
         "justinrainbow/json-schema": "^5.1",
         "league/container": "^3.2",
         "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
-        "phploc/phploc": "^5.0|^6.0",
+        "twc/phploc": "^5.0",
         "psr/container": "^1.0",
         "sensiolabs/security-checker": "^6.0",
         "slevomat/coding-standard": "^6.0",

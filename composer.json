@@ -2,7 +2,7 @@
     "name": "twc/phpinsights",
     "description": "[experimental] use phpinsight with php7.2 and composer v2.",
     "keywords": ["php", "insights", "console", "quality", "source", "code"],
-    "license": "MIT",    
+    "license": "MIT",
     "require": {
         "php": "^7.2",
         "ext-iconv": "*",
@@ -16,7 +16,6 @@
         "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
         "twc/phploc": "^5.0",
         "psr/container": "^1.0",
-        "sensiolabs/security-checker": "^6.0",
         "slevomat/coding-standard": "^6.0",
         "squizlabs/php_codesniffer": "^3.4",
         "symfony/console": "^4.2|^5.0",
